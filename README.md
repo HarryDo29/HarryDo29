@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Backend+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Vietnam-success" />
   <img src="https://img.shields.io/badge/Languages-Vietnamese%20%7C%20English-brightgreen" />
@@ -28,7 +28,7 @@ Tôi là một **Backend Developer** đam mê công nghệ và luôn tìm tòi h
 ## 🛠️ Ngôn ngữ lập trình & Công nghệ
 
 ### 💻 Ngôn ngữ lập trình
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -36,7 +36,7 @@ Tôi là một **Backend Developer** đam mê công nghệ và luôn tìm tòi h
 </div>
 
 ### 🌐 Frontend Technologies
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <!-- <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -47,13 +47,13 @@ Tôi là một **Backend Developer** đam mê công nghệ và luôn tìm tòi h
 </div>
 
 ### ⚙️ Backend Technologies
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
 </div>
 
 ### 🗄️ Databases & Cloud
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -63,7 +63,7 @@ Tôi là một **Backend Developer** đam mê công nghệ và luôn tìm tòi h
 </div>
 
 ### 🔧 Tools & DevOps
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <!-- <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> -->
@@ -119,7 +119,7 @@ Tôi là một **Backend Developer** đam mê công nghệ và luôn tìm tòi h
 
 ## 🤝 Kết nối với tôi
 
-  <div align="center">
+  <div align="left">
     <!-- <a href="https://linkedin.com/in/[your-linkedin]">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a> -->
