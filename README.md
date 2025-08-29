@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Backend+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Vietnam-success" />
   <img src="https://img.shields.io/badge/Languages-Vietnamese%20%7C%20English-brightgreen" />
