@@ -1,0 +1,44 @@
+# Tên của GitHub Action
+name: Generate Snake
+
+# Điều khiển khi nào action sẽ chạy
+on:
+  # Tự động chạy mỗi 6 tiếng
+  schedule:
+    - cron: "0 */6 * * *"
+  
+  # Cho phép bạn chạy action này thủ công từ tab Actions
+  workflow_dispatch:
+
+# Quyền hạn cần thiết để action có thể commit file ảnh vào repo
+permissions:
+  contents: write
+
+# Các công việc (jobs) sẽ được thực thi
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Checkout repo để action có thể truy cập
+      - uses: actions/checkout@v3
+
+      # Step 2: Chạy action snk để tạo ảnh con rắn
+      - uses: Platane/snk@v3
+        with:
+          # BẮT BUỘC: Thay YOUR_USERNAME bằng username GitHub của bạn
+          github_user_name: HarryDo29
+          
+          # Tùy chọn: Thêm các định dạng đầu ra khác
+          # Ở đây chúng ta tạo 2 file: 1 cho theme sáng, 1 cho theme tối
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # Step 3: Đẩy file ảnh đã tạo vào repository
+      - run: |
+          git status
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add dist
+          git commit -m "Generate contribution snake"
+          git push
