@@ -135,9 +135,9 @@ Tôi là một **Backend Developer** đam mê công nghệ và luôn tìm tòi h
     <a href="https://www.instagram.com/_harrydo.29_/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <!-- <a href="https://zalo.me/[your-zalo-id]">
-      <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" />
-    </a> -->
+    <a href="https://www.linkedin.com/in/harrydo29/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
   </div>
 
 ---
